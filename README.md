@@ -17,7 +17,7 @@
 - Someone "checks in" *just* as you pause to breathe.  
 - You need to laugh at the chaos instead of crying into your textbook.
  
-**Mom Interruption** turns the *universal fear* of being "caught slacking" into a chaotic simulator. Perfect for anyone who’s ever panicked at the sound of a door creak
+**Mom Interruption** turns the *universal fear* of being "caught slacking" into a chaotic simulator. Perfect for anyone who’s ever panicked at the sound of a door creak.
 
 ---
 
