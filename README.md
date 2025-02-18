@@ -1,9 +1,5 @@
 # 🚨 Mom Interruption! 🍝
-![image](https://github.com/user-attachments/assets/3488675f-c122-4c79-922c-3702531d605a)
-![image](https://github.com/user-attachments/assets/fc5ab7fc-4752-4d4f-9eb1-3bd7c2963932)
 ![image](https://github.com/user-attachments/assets/ee5917bd-306b-4f89-ada2-c87ab25b43c9)
-![image](https://github.com/user-attachments/assets/e9d4aa21-7c52-4003-a8ae-53d92341e4e2)
-![image](https://github.com/user-attachments/assets/1160f492-4b88-490b-8795-a51e9590daa8)
 
 
 
