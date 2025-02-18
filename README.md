@@ -62,7 +62,7 @@ It’s not about perfect focus. But surviving interruptions trains you to:
 
 ## Shoutouts
 - Every student who’s hidden a phone under a textbook
-- TwoSetViolin’s "[4 Hours of Asian Mum to Help You Focus on Practising/Studying/Working](https://www.youtube.com/watch?v=3RGEo2Kohb8)".
+- TwoSetViolin for making "[4 Hours of Asian Mum to Help You Focus on Practising/Studying/Working](https://www.youtube.com/watch?v=3RGEo2Kohb8)" a whole mood
 
 ---
 
