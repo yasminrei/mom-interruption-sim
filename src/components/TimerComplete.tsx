@@ -25,9 +25,6 @@ export const TimerComplete = ({
 }: TimerCompleteProps) => {
   const [completionScreen, setCompletionScreen] =
     useState<CompletionScreen | null>(null);
-  const [audioElement, setAudioElement] = useState<HTMLAudioElement | null>(
-    null
-  );
 
   const getShareMessage = () => {
     if (occurredInterruptions.length === 0) return "";
@@ -83,7 +80,6 @@ export const TimerComplete = ({
   useEffect(() => {
     if (completionScreen?.audio) {
       const audio = new Audio(completionScreen.audio);
-      setAudioElement(audio);
 
       // Try to play audio when component appears
       audio.play().catch((error) => {
