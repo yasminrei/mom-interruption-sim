@@ -1,6 +1,6 @@
 # Mom Interruption!
 
-## Mom Interruption is a simple countdown timer with a twist... After you start the clock, Mom is constantly checking in on you to make sure you are working/studying/practising!
+### Mom Interruption is a simple countdown timer with a twist... After you start the clock, Mom is constantly checking in on you to make sure you are working/studying/practising!
 
 When you get interrupted, the Mom will confront you to which you have to tap multiple times to respond to her interruption! You can either go for Hardcore Mom who interrupts you more frequently, or Chill Mom who interrupts you less frequently.
 
