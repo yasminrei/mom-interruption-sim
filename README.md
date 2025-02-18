@@ -1,6 +1,13 @@
-# Mom Interruption!
+# 🚨 Mom Interruption! 🍝
+![image](https://github.com/user-attachments/assets/3488675f-c122-4c79-922c-3702531d605a)
+![image](https://github.com/user-attachments/assets/fc5ab7fc-4752-4d4f-9eb1-3bd7c2963932)
+![image](https://github.com/user-attachments/assets/ee5917bd-306b-4f89-ada2-c87ab25b43c9)
+![image](https://github.com/user-attachments/assets/e9d4aa21-7c52-4003-a8ae-53d92341e4e2)
+![image](https://github.com/user-attachments/assets/1160f492-4b88-490b-8795-a51e9590daa8)
 
-### Mom Interruption is a simple countdown timer with a twist... After you start the clock, Mom is constantly checking in on you to make sure you are working/studying/practising!
+
+
+### [Mom Interruption](https://mom-interruption.vercel.app) is a simple countdown timer with a twist... After you start the clock, Mom is constantly checking in on you to make sure you are working/studying/practising!
 
 When you get interrupted, Mom will confront you to which you have to tap multiple times to respond to her interruption! You can either go for Hardcore Mom who interrupts you more frequently, or Chill Mom who interrupts you less frequently.
 
@@ -13,3 +20,9 @@ A [YouTube video](https://www.youtube.com/watch?v=3RGEo2Kohb8) by TwoSetViolin c
 Maybe it's someone else who keeps checking in on you to make sure you are completing work - this app takes the humour from these situations and encapsulates it!
 
 Can you withstand Mom's interruptions and work/study/practise your way to victory?
+
+## Key Features
+- Study/Work sessions with random "Mom Interruption" alerts.
+- Meme Generator: Share fails/wins like _"I survived 10 Mom Interruptions, including the Wi-Fi ambush!"_
+
+## Hash
