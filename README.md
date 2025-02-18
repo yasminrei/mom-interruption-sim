@@ -70,5 +70,5 @@ It’s not about perfect focus. But surviving interruptions trains you to:
 
 ---
 
-[Mom Interruption](https://mom-interruption.vercel.app): _Because your focus deserves a jump scare. _
+[Mom Interruption](https://mom-interruption.vercel.app): _Because your focus deserves a jump scare._
 
