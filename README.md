@@ -1,24 +1,74 @@
-# 🚨 Mom Interruption! 🍝
-![image](https://github.com/user-attachments/assets/ee5917bd-306b-4f89-ada2-c87ab25b43c9)
+# 🚨 [Mom Interruption!](https://mom-interruption.vercel.app) 🍝
+*Study for hours. Take a 5-second break. Mom walks in. Because timing is her superpower.*  
 
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=white)![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=flat&logo=appwrite&logoColor=white)![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white)
 
+---
 
-### [Mom Interruption](https://mom-interruption.vercel.app) is a simple countdown timer with a twist... After you start the clock, Mom is constantly checking in on you to make sure you are working/studying/practising!
+![Demo](https://i.giphy.com/IdT9VcpfZFxhoMb7wH.webp)
 
-When you get interrupted, Mom will confront you to which you have to tap multiple times to respond to her interruption! You can either go for Hardcore Mom who interrupts you more frequently, or Chill Mom who interrupts you less frequently.
+*Can you survive Mom’s SUSPICION?*  
 
-This app isn’t about perfect focus, but it's a focus trainer! It’s about laughing at the chaos of working and studying while training yourself to bounce back from distractions. So many times have I been distracted by one tiny thing - if only there was a way to practise bouncing back from that faster.
+---
 
-You know that feeling where you're studying for hours, and right at the time when you're taking a break for a few minutes, someone walks in on you and assumes you haven't been studying, but have been playing games/scrolling on your phone the entire time? Or when someone is constantly checking on you to make sure you are still doing work? This humorous timer simulates Mom walking in every time you take your study/work breaks and thinking you’re not working hard enough. 
+## Why Mom Interruption?  
+**We’ve all been there:**
+- You study for **hours**, take a **5-second break**, and *BAM*—Mom assumes you’ve been scrolling all day.  
+- Someone "checks in" *just* as you pause to breathe.  
+- You need to laugh at the chaos instead of crying into your textbook.
+ 
+**Mom Interruption** turns the *universal fear* of being "caught slacking" into a chaotic simulator. Perfect for anyone who’s ever panicked at the sound of a door creak
 
-A [YouTube video](https://www.youtube.com/watch?v=3RGEo2Kohb8) by TwoSetViolin can also paint a picture, where they uploaded a video titled "4 Hours of Asian Mum to Help You Focus on Practising/Studying/Working". 
+---
 
-Maybe it's someone else who keeps checking in on you to make sure you are completing work - this app takes the humour from these situations and encapsulates it!
+## Features  
+### 1️. **Mom Modes**  
+- **Hardcore Mom**: Interrupts more often (like she’s got a sixth sense).  
+- **Chill Mom**: Interrupts less often (gives you a *fighting chance*).
 
-Can you withstand Mom's interruptions and work/study/practise your way to victory?
+### 2️. **Panic Tapping Mini-Game**  
+- When Mom barges in, **TAP LIKE YOUR GRADES DEPEND ON IT** to "prove" you were working!  
+- **Succeed**: *"Mom’s suspicion level: 0%"*  
+- **Fail**: *"Wi-Fi password changed. Maybe next time."*
 
-## Key Features
-- Study/Work sessions with random "Mom Interruption" alerts.
-- Meme Generator: Share fails/wins like _"I survived 10 Mom Interruptions, including the Wi-Fi ambush!"_
+### 3. **Share the Chaos**
+- **Victory?** Tweet *"I survived 5 Mom interruptions! #MomInterruptionSim"*  
+- **Caught?** Post *"Mom caught me after 30 mins… "*   
 
-## Hash
+---
+
+## How It Works  
+1. **Pick Your Mom Mode**: Hardcore or Chill.  
+2. **Start the Timer**: Study/work hard.  
+3. **Survive Interruptions**:  
+   - **Tap frantically** to hide your "break" (even if you weren’t taking one).  
+   - **Fail** = Timer stops. **Win** = Keep your streak alive!  
+4. **Flex or Roast Yourself**: Share humorous results.
+  
+---
+
+## Why use this app?
+It’s not about perfect focus. But surviving interruptions trains you to:  
+- Bounce back from distractions.  
+- Laugh at your stress.  
+
+---
+
+## Built With
+- Frontend: React + TypeScript + Vite
+- Backend: Appwrite (Database, Storage)
+
+---
+
+## Shoutouts
+- Every student who’s hidden a phone under a textbook
+- TwoSetViolin’s "[4 Hours of Asian Mum to Help You Focus on Practising/Studying/Working](https://www.youtube.com/watch?v=3RGEo2Kohb8)".
+
+---
+
+📩 Contact: [@yasminreidev](twitter.com/yasminreidev) | [yasminreidev@gmail.com](mailto:yasminreidev@gmail.com)
+
+---
+
+[Mom Interruption](https://mom-interruption.vercel.app): _Because your focus deserves a jump scare. _
+
