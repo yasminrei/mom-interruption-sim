@@ -1,50 +1,11 @@
-# React + TypeScript + Vite
+# Mom Interruption!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Mom Interruption is a simple countdown timer with a twist... After you start the clock, Mom is constantly checking in on you to make sure you are working/studying/practising!
 
-Currently, two official plugins are available:
+When you get interrupted, the Mom will confront you to which you have to tap multiple times to respond to her interruption! You can either go for Hardcore Mom who interrupts you more frequently, or Chill Mom who interrupts you less frequently.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This app isn’t about perfect focus, but it's a focus trainer! It’s about laughing at the chaos of working and studying while training yourself to bounce back from distractions. So many times have I been distracted by one tiny thing - if only there was a way to help me practise bouncing from that.
 
-## Expanding the ESLint configuration
+You know that feeling where you're studying for hours and then you take a break for a few minutes, then right at that time, someone walks in on you and assumes you haven't been studying, but have been playing games/scrolling on your phone the entire time? Or when someone is constantly checking on you to make sure you are still doing work? Mom could walk in every time you take your study/practice breaks and think you’re not working hard enough. A YouTube video by TwoSetViolin can also paint a picture, where they uploaded a video titled "4 Hours of Asian Mum to Help You Focus on Practising/Studying/Working". Maybe it's someone else who keeps checking in on you to make sure you are completing work - this app takes the humour from these situations and encapsulates it!
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
-
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
-
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
-
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
+Can you withstand Mom's interruptions and work/study/practise your way to victory?
