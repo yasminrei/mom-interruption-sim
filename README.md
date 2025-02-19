@@ -13,9 +13,10 @@
 
 ## Why Mom Interruption?  
 **We’ve all been there:**
-- You study for **hours**, and right when you take a **5-second break**, Mom walks in and *BAM* - she assumes you’ve been taking a break for the *whole* time!  
+- You study for **hours**, and right when you take a **5-second break**, Mom walks in and *BAM* - she assumes you’ve been taking a break the *whole* time!  
 - Someone "checks in" *just* as you pause to breathe.  
-- You need to laugh at the chaos instead of crying into your textbook.
+
+You need to laugh at the chaos instead of crying into your textbook.
  
 **Mom Interruption** turns the *universal fear* of being "caught slacking" into a chaotic simulator. Perfect for anyone who’s ever panicked at the sound of a door creak.
 
