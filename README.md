@@ -13,7 +13,7 @@
 
 ## Why Mom Interruption?  
 **We’ve all been there:**
-- You study for **hours**, take a **5-second break**, and *BAM* - Mom assumes you’ve been scrolling all day.  
+- You study for **hours**, and right when you take a **5-second break**, *BAM* - Mom assumes you’ve been scrolling all day.  
 - Someone "checks in" *just* as you pause to breathe.  
 - You need to laugh at the chaos instead of crying into your textbook.
  
