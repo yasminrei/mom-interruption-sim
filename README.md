@@ -1,3 +1,8 @@
+## Preface
+Mom Interruption was a winning hackathon project, built by myself in 48 hours. It was created on-theme for the Meme category and was selected by the hosts at AppWrite x 100Devs.
+
+---
+
 # 🚨 [Mom Interruption!](https://mom-interruption.vercel.app) 🍝
 *Study for hours. Take a 5-second break. Mom walks in. Because timing is her superpower.*  
 
