@@ -62,7 +62,7 @@ It’s not about perfect focus. But surviving interruptions trains you to:
 
 ## Built With
 - Frontend: React + TypeScript + Vite
-- Backend: Appwrite (Database, Storage)
+- Backend: Appwrite (Database)
 
 ---
 
