@@ -72,7 +72,7 @@ It’s not about perfect focus. But surviving interruptions trains you to:
 
 ---
 
-📩 Contact: [@yasminreidev](twitter.com/yasminreidev) | yasminreidev |AT| gmail |DOT| com
+📩 Contact: [@yasminreidev](https://twitter.com/yasminreidev) | yasminreidev |AT| gmail |DOT| com
 
 ---
 
